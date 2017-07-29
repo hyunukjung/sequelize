@@ -84,7 +84,7 @@
     "sqlite3": "^3.1.4",
     "tedious": "^1.14.0",
     "uuid-validate": "^0.0.2",
-    "validate-commit-msg": "^2.12.2"
+    "validate-commit-msg": "2.13.1"
   },
   "keywords": [
     "mysql",
